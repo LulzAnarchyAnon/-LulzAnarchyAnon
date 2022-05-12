@@ -1,1 +1,1 @@
-# -LulzAnarchyAnon
+# LulzAnarchyAnon
