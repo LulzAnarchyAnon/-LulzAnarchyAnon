@@ -17,6 +17,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 
 
 
