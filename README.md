@@ -47,7 +47,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-<a href=”https://www.facebook.com/profile.php?id=100057313693439/"><img src=”images/Facebook.png” alt=”alternate text”width=”30px”></a>
+
 
 
 ![Cool Text - LulzAnarchyAnon 410800658139955](https://user-images.githubusercontent.com/104794704/168375772-e00db5d9-d704-45ae-8b5b-323bdc8f441e.png)
