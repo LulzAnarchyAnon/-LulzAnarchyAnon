@@ -16,3 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&show_icons=true&theme=ADD_THEME_HERE" width="1050">
 
 ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
