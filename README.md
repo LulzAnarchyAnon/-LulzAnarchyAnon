@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&show_icons=true&theme=ADD_THEME_HERE" width="1050">
 
-![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
+
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)     [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)    ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon) 
 
