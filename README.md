@@ -15,7 +15,7 @@
 
 
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)     [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)    ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)     [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)    ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon) <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
 
