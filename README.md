@@ -7,7 +7,16 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&theme=highcontrast&show_icons=true&count_private=true) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)     [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)    ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&hide=javascript,html)
+
+
+
+
+
+
+
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)     [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)    ![](https://komarev.com/ghpvc/?username=your-github-LulzAnarchyAnon)
 
 
 
