@@ -13,5 +13,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&show_icons=true&theme=ADD_THEME_HERE" width="1000">
+<img src="https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&show_icons=true&theme=ADD_THEME_HERE" width="1050">
 
