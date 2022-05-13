@@ -9,8 +9,8 @@
 
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?LulzAnarchy=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
