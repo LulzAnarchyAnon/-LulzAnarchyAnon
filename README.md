@@ -10,8 +10,7 @@
 
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?LulzAnarchyAnon=anuraghazra)
+<img align="center" src="https://github-readme-stats.vercel.app/api?LulzAnarchy=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 
 
