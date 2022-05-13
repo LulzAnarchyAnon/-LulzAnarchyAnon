@@ -11,7 +11,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LulzAnarchy=anuraghazra&theme=dark&show_icons=true)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 
 
