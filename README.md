@@ -2,7 +2,7 @@
 
 𝑰𝑻 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 - 𝑬𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓 - 𝑯𝒂𝒄𝒌𝒕𝒂𝒗𝒊𝒔𝒕
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<LulzAnarchy>&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LulzAnarchy&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
