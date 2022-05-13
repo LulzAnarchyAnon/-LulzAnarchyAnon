@@ -5,9 +5,10 @@
 
 
 
+![White-Hat-Hacker-2018-Bundle](https://user-images.githubusercontent.com/104794704/168382508-a79561b9-36b7-4560-9067-39d3ad086662.jpg)
 
 
-![White-Hat-Hacker-2018-Bundle](https://user-images.githubusercontent.com/104794704/168382354-8335afc4-c769-4c51-b1e9-76c4a216e20d.jpg)
+
 
 
 
