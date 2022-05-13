@@ -13,7 +13,7 @@
 
 
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito&theme=dark)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LulzAnarchy=anuraghazra&theme=dark&show_icons=true)
 
 
 
