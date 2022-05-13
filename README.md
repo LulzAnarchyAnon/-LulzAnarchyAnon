@@ -3,7 +3,8 @@
 𝑰𝑻 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 - 𝑬𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓 - 𝑯𝒂𝒄𝒌𝒕𝒂𝒗𝒊𝒔𝒕
 
 
-![White-Hat-Hacker-2018-Bundle](https://user-images.githubusercontent.com/104794704/168382178-3d2476b7-961c-47dd-9943-5f9f6c1c02a1.jpg)
+![White-Hat-Hacker-2018-Bundle](https://user-images.githubusercontent.com/104794704/168382273-626f3855-d853-42f6-bd42-a3d531d17ea2.jpg)
+
 
 
 
