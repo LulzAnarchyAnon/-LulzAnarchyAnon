@@ -28,8 +28,7 @@
 
 
 
-![pirate-station-flag](https://user-images.githubusercontent.com/104794704/168404098-d92a5629-81d9-4c92-83e2-d808220a5dda.gif) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-
+![pirate-station-flag](https://user-images.githubusercontent.com/104794704/168404098-d92a5629-81d9-4c92-83e2-d808220a5dda.gif) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
