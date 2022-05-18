@@ -28,8 +28,9 @@
 ![pirate-station-flag](https://user-images.githubusercontent.com/104794704/168404098-d92a5629-81d9-4c92-83e2-d808220a5dda.gif)    >>>> >>>> >>>> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+![ilsjyuy0b0ey](https://user-images.githubusercontent.com/104794704/169139933-6b489611-d6db-4906-a990-69fde51e8ab8.jpg)
 
-                          ![ilsjyuy0b0ey](https://user-images.githubusercontent.com/104794704/169139808-86aef4c3-001e-4379-b861-24b18669dce5.jpg)
+                    
 
 
 
