@@ -7,7 +7,7 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&theme=dark&show_icons=true&count_private=true) ![pirate-station-flag](https://user-images.githubusercontent.com/104794704/168404098-d92a5629-81d9-4c92-83e2-d808220a5dda.gif)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=LulzAnarchyAnon&theme=dark&show_icons=true&count_private=true)   ![pirate-station-flag](https://user-images.githubusercontent.com/104794704/168404098-d92a5629-81d9-4c92-83e2-d808220a5dda.gif)  
 
 
 
